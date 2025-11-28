@@ -1,0 +1,154 @@
+patient,visit,gender-bp,age-bp,systolic,diastolic,hypertension-medication-note
+CD-005,V1,Female,55,123.0,97.0,
+CD-012,V1,Female,53,129.0,79.0,
+CD-013,V1,Male,56,131.0,90.0,
+CD-020,V1,Male,48,147.0,99.0,hypertension / under medication
+CD-025,V1,Female,48,120.0,80.0,
+CD-028,V1,Male,36,155.0,116.0,
+CD-030,V1,Male,47,124.0,85.0,
+CD-032,V1,Male,52,127.0,83.0,
+CD-033,V1,Male,55,128.0,96.0,
+CD-041,V1,Female,54,134.0,87.0,
+CD-044,V1,Female,45,132.0,97.0,
+CD-050,V1,Male,58,146.0,104.0,
+CD-055,V1,Female,51,142.0,82.0,
+CD-056,V1,Female,26,137.0,96.0,
+CD-062,V1,Female,59,138.0,99.0,
+CD-063,V1,Female,43,134.0,101.0,
+CD-080,V1,Female,25,112.0,78.0,
+CD-082,V1,Female,55,119.0,76.0,
+CD-092,V1,Male,36,135.0,109.0,
+CD-108,V1,Female,55,126.0,59.0,
+CD-113,V1,Female,61,132.0,9.0,
+CD-114,V1,Female,64,125.0,80.0,hypertension / under medication
+CD-116,V1,Male,27,110.0,75.0,
+CD-117,V1,Female,27,112.0,78.0,
+CD-120,V1,Female,34,140.0,97.0,
+CD-122,V1,Female,40,118.0,82.0,
+CD-123,V1,Female,34,100.0,68.0,
+CD-127,V1,Female,54,113.0,88.0,
+CD-130,V1,Female,40,141.0,89.0,
+CD-132,V1,Female,38,139.0,85.0,
+CD-133,V1,Female,49,131.0,89.0,
+CD-135,V1,Female,45,140.0,94.0,
+CD-019,V1,Male,63,142.0,88.0,Isolated systolic hypertension/Under medication 
+CD-021,V1,Female,44,140.0,105.0,Grade 2 hypertension
+CD-029,V1,Male,49,132.0,79.0,
+CD-035,V1,Male,56,180.0,105.0,Grade 3 hypertension
+CD-047,V1,Female,50,107.0,75.0,
+CD-051,V1,Female,49,137.0,87.0,
+CD-054,V1,Female,49,169.0,112.0,Grade 3 hypertension
+CD-060,V1,Female,47,107.0,65.0,
+CD-073,V1,Male,44,103.0,73.0,
+CD-075,V1,Male,56,124.0,83.0,
+CD-076,V1,Male,51,129.0,86.0,
+CD-084,V1,Female,36,145.0,88.0,Isolated systolic hypertension
+CD-085,V1,Female,51,146.0,95.0,
+CD-089,V1,Female,54,132.0,65.0,
+CD-090,V1,Female,36,125.0,87.0,
+CD-095,V1,Male,51,132.0,75.0,
+CD-098,V1,Female,41,117.0,89.0,
+CD-109,V1,Male,49,133.0,86.0,
+CD-139,V1,Female,45,115.0,80.0,
+CD-003,V1,Female,49,151.5,90.0,
+CD-015,V1,Male,59,135.0,91.0,
+CD-034,V1,Female,24,107.5,64.0,
+CD-038,V1,Male,46,136.0,55.0,
+CD-042,V1,Female,65,142.5,76.0,
+CD-043,V1,Male,24,122.5,77.0,
+CD-046,V1,Female,59,113.5,69.0,
+CD-049,V1,Male,46,119.5,71.0,
+CD-053,V1,Female,37,93.5,63.0,
+CD-061,V1,Male,57,125.5,77.5,
+CD-065,V1,Male,65,124.5,75.0,
+CD-067,V1,Male,46,117.5,71.0,
+CD-074,V1,Female,52,137.0,86.5,
+CD-079,V1,Female,57,131.0,79.0,
+CD-083,V1,Female,42,117.0,77.5,
+CD-088,V1,Female,53,151.5,104.0,
+CD-091,V1,Female,61,128.0,82.5,
+CD-096,V1,Female,62,148.0,89.0,
+CD-099,V1,Female,36,103.5,49.5,
+CD-100,V1,Female,48,142.5,76.0,
+CD-101,V1,Female,59,162.5,87.5,
+CD-106,V1,Female,65,149.0,83.5,
+CD-112,V1,Male,44,119.5,65.0,
+CD-119,V1,Female,44,117.0,62.0,
+CD-016,V1,Female,33,132.0,82.0,
+CD-023,V1,Male,44,158.0,99.0,
+CD-037,V1,Female,63,144.0,84.0,
+CD-040,V1,Male,41,156.0,89.0,hypertension / under medication
+CD-048,V1,Female,57,135.0,60.0,
+CD-057,V1,Female,51,144.0,86.0,
+CD-078,V1,Male,35,148.0,75.0,
+CD-093,V1,Female,43,130.0,74.0,
+CD-104,V1,Male,66,155.0,91.0,hypertension / under medication
+CD-111,V1,Female,65,151.0,95.0,hypertension / under medication
+CD-121,V1,Male,46,142.0,90.0,
+CD-125,V1,Female,28,123.0,82.0,
+CD-131,V1,Male,65,142.0,71.0,hypertension / under medication
+CD-147,V1,Female,60,123.0,66.0,
+CD-150,V1,Female,54,121.0,80.0,
+CD-161,V1,Female,61,134.0,81.0,hypertension / under medication
+CD-169,V1,Male,52,136.0,80.0,
+CD-181,V1,Male,65,111.0,65.0,hypertension / under medication / Dyslipidaemia controlled with medication statins
+CD-182,V1,Male,42,136.0,97.0,hypertension / under medication
+CD-186,V1,Female,65,139.0,80.0,
+CD-190,V1,Male,43,130.0,92.0,hypertension / under medication
+CD-200,V1,Female,47,166.0,105.0,hypertension / under medication
+CD-202,V1,Male,50,142.0,83.0,
+CD-204,V1,Female,58,164.0,105.0,hypertension / under medication
+CD-205,V1,Male,51,133.0,86.0,
+CD-207,V1,Female,39,132.0,108.0,
+CD-209,V1,Male,51,166.0,81.0,hypertension / under medication
+CD-229,V1,Male,62,157.0,88.0,hypertension / under medication
+CD-247,V1,Male,51,148.0,95.0,hypertension / under medication
+CD-251,V1,Female,50,136.0,89.0,
+CD-273,V1,Male,29,122.0,61.0,
+CD-278,V1,Male,48,160.0,90.0,hypertension / under medication
+CD-280,V1,Male,64,173.0,86.0,hypertension / under medication
+CD-293,V1,Female,34,145.0,97.0,
+CD-295,V1,Female,53,146.0,101.0,
+CD-324,V1,Female,50,139.0,109.0,
+CD-336,V1,Female,43,153.0,96.0,hypertension / under medication
+CD-342,V1,Male,29,136.0,72.0,
+CD-347,V1,Female,49,138.0,90.0,
+CD-353,V1,Female,54,125.0,79.0,hypertension / under medication
+CD-359,V1,Female,34,148.0,90.0,
+CD-363,V1,Female,40,134.0,95.0,
+CD-365,V1,Female,44,134.0,69.0,
+CD-368,V1,Female,61,151.0,81.0,hypertension / under medication
+CD-371,V1,Female,53,137.0,89.0,
+CD-375,V1,Male,44,121.0,74.0,
+CD-377,V1,Female,25,152.0,101.0,
+CD-379,V1,Female,51,135.0,81.0,hypertension / under medication
+CD-380,V1,Female,41,148.0,95.0,hypertension / under medication
+CD-404,V1,Female,47,122.0,78.0,
+CD-007,V1,Female,50,108.0,84.0,
+CD-017,V1,Male,48,142.0,101.0,
+CD-024,V1,Male,61,130.0,90.0,
+CD-026,V1,Male,52,124.0,92.0,hypertension / under medication
+CD-027,V1,Male,58,138.0,90.0,hypertension / under medication
+CD-036,V1,Female,59,103.0,80.0,
+CD-064,V1,Female,58,116.0,81.0,
+CD-066,V1,Female,57,127.0,86.0,hypertension / under medication
+CD-087,V1,Female,63,116.0,89.0,hypertension / under medication
+CD-094,V1,Male,30,152.0,95.0,
+CD-097,V1,Female,61,109.0,77.0,
+CD-102,V1,Male,56,150.0,99.0,hypertension / under medication
+CD-107,V1,Female,53,133.0,88.0,hypertension / under medication
+CD-118,V1,Female,56,92.0,65.0,
+CD-143,V1,Female,60,124.0,88.0,
+CD-164,V1,Female,59,115.0,69.0,
+CD-165,V1,Female,54,157.0,106.0,
+CD-172,V1,Male,48,163.0,106.0,
+CD-176,V1,Female,50,127.0,93.0,
+CD-198,V1,Female,61,120.0,89.0,
+CD-206,V1,Female,49,116.0,85.0,hypertension / under medication
+CD-215,V1,Female,33,103.0,73.0,
+CD-230,V1,Male,26,108.0,65.0,
+CD-237,V1,Male,36,170.0,115.0,
+CD-239,V1,Female,61,120.0,81.0,
+CD-241,V1,Female,48,102.0,88.0,
+CD-249,V1,Female,53,108.0,96.0,
+CD-256,V1,Male,61,127.0,82.0,
