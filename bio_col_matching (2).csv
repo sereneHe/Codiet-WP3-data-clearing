@@ -1,0 +1,121 @@
+keyword_id,metric_name,cols_from_biosensors,metric_code,body_region,metric_description,risk_field,data_type,category
+absi-whole-body,absi(a-body-shaped-index),"absi(a-body-shaped-index),upper-limit-(absi-normal-range)",absi,whole-body,absi(a-body-shaped-index),absi(a-body-shaped-index)_risk,N,Body Measurement
+ac-arm,ac-(arm-circumference),ac-(arm-circumference),ac,arm,ac(arm-circumference),ac-(arm-circumference)_risk,N,Body Measurement
+ae-whole-body,ae,"ae,ae-status",ae,whole-body,ae(activity-exercise),ae_risk,C,Metabolism and Energy
+af-ll-abdomen,af-ll(abdominal-fat-llimit),af-ll(abdominal-fat-llimit),af-ll,abdomen,af-ll(abdominal-fat-lower-limit),af-ll(abdominal-fat-llimit)_risk,N,Obesity
+af-ul-abdomen,af-ul(abdominal-fat-ulimit),af-ul(abdominal-fat-ulimit),af-ul,abdomen,af-ul(abdominal-fat-upper-limit),af-ul(abdominal-fat-ulimit)_risk,N,Obesity
+age-value-whole-body,age-value,age-value,age-value,whole-body,,age-value_risk,N,Body Composition
+age-whole-body,age,age,age,whole-body,age,age_risk,N,Body Composition
+ai-whole-body,ai,"ai,ai-status",ai,whole-body,ai(activity-index),ai_risk,C,Health and Risk Factors
+amc-muscle,amc-(arm-muscle-circumference),amc-(arm-muscle-circumference),amc,muscle,amc(arm-muscle-circumference),amc-(arm-muscle-circumference)_risk,N,Body Measurement
+ans-activity-whole-body,ans-activity,"ans-activity,ans-activity-status",ans-activity,whole-body,ans-activity(autonomic-nervous-system-activity),ans-activity_risk,C,Body Measurement
+ans-balance-whole-body,ans-balance,"ans-balance,ans-balance-status",ans-balance,whole-body,ans-balance(autonomic-nervous-system-balance),ans-balance_risk,C,Mental Health
+apen-whole-body,apen,apen,apen,whole-body,apen,apen_risk,N,Obesity
+arms/legs-fat-arm&leg,arms/legs-fat,arms/legs-fat,arms/legs-fat,arm&leg,arms/legs-fat,arms/legs-fat_risk,N,Fat Mass
+bai-whole-body,bai(body-adiposity-index),"bai(body-adiposity-index),upper-limit-(bai-normal-range)",bai,whole-body,bai(body-adiposity-index),bai(body-adiposity-index)_risk,N,Health and Risk Factors
+bcm-whole-body,bcm-(body-cell-mass),"bcm-(body-cell-mass),bcm-t-score,bcm-z-score,lower-limit-(bcm-normal-range),upper-limit-(bcm-normal-range)",bcm,whole-body,bcm(body-cell-mass),bcm-(body-cell-mass)_risk,N,Body Composition
+bfm-arm&leg,bfm-of-arm-&-leg,"bfm-of-arm-&-leg,lower-limit-(bfm-of-arm-&-leg-normal-range),upper-limit-(bfm-of-arm-&-leg-normal-range)",bfm,arm&leg,bfm(body-fat-mass),bfm-of-arm-&-leg_risk,N,Fat Mass
+bfm-control-whole-body,bfm-control,bfm-control,bfm-control,whole-body,bfm-control(body-fat-mass-control),bfm-control_risk,N,Fat Mass
+bfm-left-arm,bfm%-of-left-arm,"bfm%-of-left-arm,bfm-of-left-arm",bfm,left-arm,bfm(body-fat-mass),bfm%-of-left-arm_risk,N,Fat Mass
+bfm-left-leg,bfm%-of-left-leg,"bfm%-of-left-leg,bfm-of-left-leg",bfm,left-leg,bfm(body-fat-mass),bfm%-of-left-leg_risk,N,Fat Mass
+bfm-right-arm,bfm%-of-right-arm,"bfm%-of-right-arm,bfm-of-right-arm",bfm,right-arm,bfm(body-fat-mass),bfm%-of-right-arm_risk,N,Fat Mass
+bfm-right-leg,bfm%-of-right-leg,"bfm%-of-right-leg,bfm-of-right-leg",bfm,right-leg,bfm(body-fat-mass),bfm%-of-right-leg_risk,N,Fat Mass
+bfm-trunk,bfm%-of-trunk,"bfm%-of-trunk,bfm-of-trunk,lower-limit-(bfm-of-trunk-normal-range),upper-limit-(bfm-of-trunk-normal-range)",bfm,trunk,bfm(body-fat-mass),bfm%-of-trunk_risk,N,Fat Mass
+bfm-whole-body,bfm%-of-whole-body,"bfm%-of-whole-body,bfm-(body-fat-mass),lower-limit-(bfm-normal-range),upper-limit-(bfm-normal-range)",bfm,whole-body,bfm(body-fat-mass),bfm%-of-whole-body_risk,N,Fat Mass
+bmc-bone,bmc-(bone-mineral-content),"bmc-(bone-mineral-content),lower-limit-(bmc-normal-range),upper-limit-(bmc-normal-range)",bmc,bone,bmc(bone-mineral-content),bmc-(bone-mineral-content)_risk,N,Body Composition
+bmi-whole-body,bmi-(body-mass-index),"bmi-(body-mass-index),bmi-t-score,bmi-z-score,lower-limit-(bmi-normal-range),upper-limit-(bmi-normal-range)",bmi,whole-body,bmi(body-mass-index),bmi-(body-mass-index)_risk,N,Body Composition
+bmr-whole-body,bmr-(basal-metabolic-rate),"bmr-(basal-metabolic-rate),lower-limit-(bmr-normal-range),upper-limit-(bmr-normal-range)",bmr,whole-body,bmr(basal-metabolic-rate),bmr-(basal-metabolic-rate)_risk,N,Metabolism and Energy
+conicity-index-whole-body,conicity-index,"conicity-index,upper-limit-(conicity-index-normal-range)",conicity-index,whole-body,conicity-index,conicity-index_risk,N,Fat Mass
+ecm/bcm-whole-body,ecm/bcm,"ecm/bcm,ecm/bcm-t-score,ecm/bcm-z-score",ecm/bcm,whole-body,ecm/bcm(body-cell-mass),ecm/bcm_risk,N,Body Composition
+ectopic-beat-whole-body,ectopic-beat,ectopic-beat,ectopic-beat,whole-body,ectopic-beat,ectopic-beat_risk,N,Heart
+ecw-left-arm,ecw-of-left-arm,"ecw-of-left-arm,lower-limit-(ecw-of-left-arm-normal-range),upper-limit-(ecw-of-left-arm-normal-range)",ecw,left-arm,ecw(extracellular-water),ecw-of-left-arm_risk,N,Water and Hydration
+ecw-left-leg,ecw-of-left-leg,"ecw-of-left-leg,lower-limit-(ecw-of-left-leg-normal-range),upper-limit-(ecw-of-left-leg-normal-range)",ecw,left-leg,ecw(extracellular-water),ecw-of-left-leg_risk,N,Water and Hydration
+ecw-right-arm,ecw-of-right-arm,"ecw-of-right-arm,lower-limit-(ecw-of-right-arm-normal-range),upper-limit-(ecw-of-right-arm-normal-range)",ecw,right-arm,ecw(extracellular-water),ecw-of-right-arm_risk,N,Water and Hydration
+ecw-right-leg,ecw-of-right-leg,"ecw-of-right-leg,lower-limit-(ecw-of-right-leg-normal-range),upper-limit-(ecw-of-right-leg-normal-range)",ecw,right-leg,ecw(extracellular-water),ecw-of-right-leg_risk,N,Water and Hydration
+ecw-trunk,ecw-of-trunk,"ecw-of-trunk,lower-limit-(ecw-of-trunk-normal-range),upper-limit-(ecw-of-trunk-normal-range)",ecw,trunk,ecw(extracellular-water),ecw-of-trunk_risk,N,Water and Hydration
+ecw-whole-body,ecw-(extracellular-water),"ecw-(extracellular-water),lower-limit-(ecw-normal-range),upper-limit-(ecw-normal-range)",ecw,whole-body,ecw(extracellular-water),ecw-(extracellular-water)_risk,N,Water and Hydration
+ecw/tbw-left-arm,ecw/tbw-of-left-arm,ecw/tbw-of-left-arm,ecw/tbw,left-arm,ecw/tbw(total-body-water-ratio),ecw/tbw-of-left-arm_risk,N,Body Composition
+ecw/tbw-left-leg,ecw/tbw-of-left-leg,ecw/tbw-of-left-leg,ecw/tbw,left-leg,ecw/tbw(total-body-water-ratio),ecw/tbw-of-left-leg_risk,N,Body Composition
+ecw/tbw-right-arm,ecw/tbw-of-right-arm,ecw/tbw-of-right-arm,ecw/tbw,right-arm,ecw/tbw(total-body-water-ratio),ecw/tbw-of-right-arm_risk,N,Body Composition
+ecw/tbw-right-leg,ecw/tbw-of-right-leg,ecw/tbw-of-right-leg,ecw/tbw,right-leg,ecw/tbw(total-body-water-ratio),ecw/tbw-of-right-leg_risk,N,Body Composition
+ecw/tbw-trunk,ecw/tbw-of-trunk,ecw/tbw-of-trunk,ecw/tbw,trunk,ecw/tbw(total-body-water-ratio),ecw/tbw-of-trunk_risk,N,Body Composition
+ecw/tbw-whole-body,ecw/tbw,"ecw/tbw,whole-body-ecw/tbw-t-score,whole-body-ecw/tbw-z-score",ecw/tbw,whole-body,ecw/tbw(total-body-water-ratio),ecw/tbw_risk,N,Body Composition
+electro-cardiac-stability-whole-body,electro-cardiac-stability,"electro-cardiac-stability,electro-cardiac-stability-status",electro-cardiac-stability,whole-body,electro-cardiac-stability,electro-cardiac-stability_risk,C,Body Measurement
+fatigue-index-whole-body,fatigue-index,"fatigue-index,fatigue-index-status",fatigue-index,whole-body,fatigue-index,fatigue-index_risk,C,Obesity
+ffm-control-whole-body,ffm-control,ffm-control,ffm-control,whole-body,ffm-control(fat-free-mass-control),ffm-control_risk,N,Body Composition
+ffm-whole-body,ffm-(fat-free-mass),"ffm-(fat-free-mass),lower-limit-(ffm-normal-range),upper-limit-(ffm-normal-range)",ffm,whole-body,ffm(fat-free-mass),ffm-(fat-free-mass)_risk,N,Body Composition
+ffmi-whole-body,ffmi-(fat-free-mass-index),"ffmi-(fat-free-mass-index),ffmi-t-score,ffmi-z-score",ffmi,whole-body,ffmi(fat-free-mass-index),ffmi-(fat-free-mass-index)_risk,N,Body Composition
+fmi-whole-body,fmi-(fat-mass-index),"fmi-(fat-mass-index),fmi-t-score,fmi-z-score",fmi,whole-body,fmi(fat-mass-index),fmi-(fat-mass-index)_risk,N,Fat Mass
+height-whole-body,height,height,height,whole-body,height,height_risk,N,Body Composition
+hf-heart,hf(ln),"hf,hf(ln),hfnorm",hf,heart,hf(high-frequency),hf(ln)_risk,N,Health and Risk Factors
+hr-heart,hr,"hr,hr-status",hr,heart,hr(heart-rate),hr_risk,C,Heart
+icw-left-arm,icw-of-left-arm,"icw-of-left-arm,lower-limit-(icw-of-left-arm-normal-range),upper-limit-(icw-of-left-arm-normal-range)",icw,left-arm,icw(intracellular-water),icw-of-left-arm_risk,N,Body Composition
+icw-left-leg,icw-of-left-leg,"icw-of-left-leg,lower-limit-(icw-of-left-leg-normal-range),upper-limit-(icw-of-left-leg-normal-range)",icw,left-leg,icw(intracellular-water),icw-of-left-leg_risk,N,Body Composition
+icw-right-arm,icw-of-right-arm,"icw-of-right-arm,lower-limit-(icw-of-right-arm-normal-range),upper-limit-(icw-of-right-arm-normal-range)",icw,right-arm,icw(intracellular-water),icw-of-right-arm_risk,N,Body Composition
+icw-right-leg,icw-of-right-leg,"icw-of-right-leg,lower-limit-(icw-of-right-leg-normal-range),upper-limit-(icw-of-right-leg-normal-range)",icw,right-leg,icw(intracellular-water),icw-of-right-leg_risk,N,Body Composition
+icw-trunk,icw-of-trunk,"icw-of-trunk,lower-limit-(icw-of-trunk-normal-range),upper-limit-(icw-of-trunk-normal-range)",icw,trunk,icw(intracellular-water),icw-of-trunk_risk,N,Body Composition
+icw-whole-body,icw-(intracellular-water),"icw-(intracellular-water),lower-limit-(icw-normal-range),upper-limit-(icw-normal-range)",icw,whole-body,icw(intracellular-water),icw-(intracellular-water)_risk,N,Body Composition
+inbody-score-whole-body,inbody-score,inbody-score,inbody-score,whole-body,inbody-score,inbody-score_risk,N,Body Composition
+inbody-type-whole-body,inbody-type,inbody-type,inbody-type,whole-body,inbody-type,inbody-type_risk,N,Body Composition
+khz-heart,khz-50-whole-body-phase-angle,"khz-50-whole-body-phase-angle,khz-whole-body-phase-angle-t-score,khz-whole-body-phase-angle-z-score",khz,heart,khz(phase-angle),khz-50-whole-body-phase-angle_risk,N,Heart
+khz-left-arm,khz-la-250-phase-angle,"khz-la-250-phase-angle,khz-la-5-phase-angle,khz-la-50-phase-angle",khz,left-arm,khz(phase-angle),khz-la-250-phase-angle_risk,N,Heart
+khz-left-leg,khz-ll-250-phase-angle,"khz-ll-250-phase-angle,khz-ll-5-phase-angle,khz-ll-50-phase-angle",khz,left-leg,khz(phase-angle),khz-ll-250-phase-angle_risk,N,Heart
+khz-right-arm,khz-ra-250-phase-angle,"khz-ra-250-phase-angle,khz-ra-5-phase-angle,khz-ra-50-phase-angle",khz,right-arm,khz(phase-angle),khz-ra-250-phase-angle_risk,N,Heart
+khz-right-leg,khz-rl-250-phase-angle,"khz-rl-250-phase-angle,khz-rl-5-phase-angle,khz-rl-50-phase-angle",khz,right-leg,khz(phase-angle),khz-rl-250-phase-angle_risk,N,Heart
+khz-trunk,khz-tr-250-phase-angle,"khz-tr-250-phase-angle,khz-tr-5-phase-angle,khz-tr-50-phase-angle",khz,trunk,khz(phase-angle),khz-tr-250-phase-angle_risk,N,Heart
+lean-mass-left-arm,lean-mass(%)-of-left-arm,"lean-mass(%)-of-left-arm,lean-mass-of-left-arm,lower-limit-(lean-mass-of-left-arm-normal-range),upper-limit-(lean-mass-of-left-arm-normal-range)",lean-mass,left-arm,lean-mass,lean-mass(%)-of-left-arm_risk,N,Body Composition
+lean-mass-left-leg,lean-mass(%)-of-left-leg,"lean-mass(%)-of-left-leg,lean-mass-of-left-leg,lower-limit-(lean-mass-of-left-leg-normal-range),upper-limit-(lean-mass-of-left-leg-normal-range)",lean-mass,left-leg,lean-mass,lean-mass(%)-of-left-leg_risk,N,Body Composition
+lean-mass-right-arm,lean-mass(%)-of-right-arm,"lean-mass(%)-of-right-arm,lean-mass-of-right-arm,lower-limit-(lean-mass-of-right-arm-normal-range),upper-limit-(lean-mass-of-right-arm-normal-range)",lean-mass,right-arm,lean-mass,lean-mass(%)-of-right-arm_risk,N,Body Composition
+lean-mass-right-leg,lean-mass(%)-of-right-leg,"lean-mass(%)-of-right-leg,lean-mass-of-right-leg,lower-limit-(lean-mass-of-right-leg-normal-range),upper-limit-(lean-mass-of-right-leg-normal-range)",lean-mass,right-leg,lean-mass,lean-mass(%)-of-right-leg_risk,N,Body Composition
+lean-mass-trunk,lean-mass(%)-of-trunk,"lean-mass(%)-of-trunk,lean-mass-of-trunk,lower-limit-(lean-mass-of-trunk-normal-range),upper-limit-(lean-mass-of-trunk-normal-range)",lean-mass,trunk,lean-mass,lean-mass(%)-of-trunk_risk,N,Body Composition
+lf-heart,lf(ln),"lf,lf(ln),lfnorm",lf,heart,lf(low-frequency),lf(ln)_risk,N,Heart
+lf/hf-heart,lf/hf,lf/hf,lf/hf,heart,lf/hf(ratio),lf/hf_risk,N,Health and Risk Factors
+local-id-whole-body,local-id,local-id,local-id,whole-body,local-id,local-id_risk,N,Health and Risk Factors
+mean-hrt-heart,mean-hrt,"mean-hrt,mean-hrt-status",mean-hrt,heart,mean-hrt(mean-heart-rate),mean-hrt_risk,C,Mental Health
+measured-circumference-abdomen,measured-circumference-of-abdomen,"measured-circumference-of-abdomen,measured-circumference-of-hip",measured-circumference,abdomen,measured-circumference,measured-circumference-of-abdomen_risk,N,Body Measurement
+measured-circumference-chest,measured-circumference-of-chest,measured-circumference-of-chest,measured-circumference,chest,measured-circumference,measured-circumference-of-chest_risk,N,Body Measurement
+measured-circumference-left-arm,measured-circumference-of-left-arm,measured-circumference-of-left-arm,measured-circumference,left-arm,measured-circumference,measured-circumference-of-left-arm_risk,N,Body Measurement
+measured-circumference-left-thigh,measured-circumference-of-left-thigh,measured-circumference-of-left-thigh,measured-circumference,left-thigh,measured-circumference,measured-circumference-of-left-thigh_risk,N,Body Measurement
+measured-circumference-neck,measured-circumference-of-neck,measured-circumference-of-neck,measured-circumference,neck,measured-circumference,measured-circumference-of-neck_risk,N,Body Measurement
+measured-circumference-right-arm,measured-circumference-of-right-arm,measured-circumference-of-right-arm,measured-circumference,right-arm,measured-circumference,measured-circumference-of-right-arm_risk,N,Body Measurement
+measured-circumference-right-thigh,measured-circumference-of-right-thigh,measured-circumference-of-right-thigh,measured-circumference,right-thigh,measured-circumference,measured-circumference-of-right-thigh_risk,N,Body Measurement
+minerals-whole-body,minerals,"lower-limit-(minerals-normal-range),minerals,upper-limit-(minerals-normal-range)",minerals,whole-body,minerals,minerals_risk,N,Health and Risk Factors
+obesity-degree-whole-body,obesity-degree,"lower-limit-(obesity-degree-normal-range),obesity-degree,upper-limit-(obesity-degree-normal-range)",obesity-degree,whole-body,obesity-degree,obesity-degree_risk,N,Obesity
+pbf-whole-body,pbf-(percent-body-fat),"lower-limit-(pbf-normal-range),pbf-(percent-body-fat),pbf-t-score,pbf-z-score,upper-limit-(pbf-normal-range)",pbf,whole-body,pbf(percent-body-fat),pbf-(percent-body-fat)_risk,N,Fat Mass
+pe-whole-body,pe,"pe,pe-status",pe,whole-body,pe(peripheral-fat),pe_risk,C,Obesity
+protein-whole-body,protein,"lower-limit-(protein-normal-range),protein,upper-limit-(protein-normal-range)",protein,whole-body,protein,protein_risk,N,Metabolism and Energy
+psi-whole-body,psi,psi,psi,whole-body,psi(phase-angle),psi_risk,N,Heart
+r/ht-whole-body,r/ht,r/ht,r/ht,whole-body,r/ht(ratio),r/ht_risk,N,Body Measurement
+recommended-calorie-intake-whole-body,recommended-calorie-intake,recommended-calorie-intake,recommended-calorie-intake,whole-body,recommended-calorie-intake,recommended-calorie-intake_risk,N,Metabolism and Energy
+rmssd-whole-body,rmssd,rmssd,rmssd,whole-body,rmssd(root-mean-square-of-successive-differences),rmssd_risk,N,Mental Health
+sdnn-whole-body,sdnn,sdnn,sdnn,whole-body,sdnn(std-dev-of-normal-to-normal-interval),sdnn_risk,N,Mental Health
+sfa-ll-abdomen,sfa-ll(subcutaneous-fat-of-abdomen-llimit),sfa-ll(subcutaneous-fat-of-abdomen-llimit),sfa-ll,abdomen,sfa-ll(subcutaneous-fat-of-abdomen-lower-limit),sfa-ll(subcutaneous-fat-of-abdomen-llimit)_risk,N,Fat Mass
+sfa-ul-abdomen,sfa-ul(subcutaneous-fat-of-abdomen-ulimit),sfa-ul(subcutaneous-fat-of-abdomen-ulimit),sfa-ul,abdomen,sfa-ul(subcutaneous-fat-of-abdomen-upper-limit),sfa-ul(subcutaneous-fat-of-abdomen-ulimit)_risk,N,Fat Mass
+slm-muscle,slm-(soft-lean-mass),"lower-limit-(slm-normal-range),slm-(soft-lean-mass),upper-limit-(slm-normal-range)",slm,muscle,slm(soft-lean-mass),slm-(soft-lean-mass)_risk,N,Body Composition
+smi-muscle,smi-(skeletal-muscle-index),"smi(asm/ht²)-t-score,smi(asm/ht²)-z-score,smi-(skeletal-muscle-index)",smi,muscle,smi(skeletal-muscle-index),smi-(skeletal-muscle-index)_risk,N,Muscle Mass
+smm-muscle,smm-(skeletal-muscle-mass),"lower-limit-(smm-normal-range),smm-(skeletal-muscle-mass),upper-limit-(smm-normal-range)",smm,muscle,smm(skeletal-muscle-mass),smm-(skeletal-muscle-mass)_risk,N,Body Composition
+smm/wt-muscle,smm/wt,"smm/wt,smm/wt-t-score,smm/wt-z-score",smm/wt,muscle,smm/wt(skeletal-muscle-mass-to-weight),smm/wt_risk,N,Body Composition
+srd-whole-body,srd,srd,srd,whole-body,srd,srd_risk,N,Mental Health
+stress-index-whole-body,stress-index,"stress-index,stress-index-status",stress-index,whole-body,stress-index,stress-index_risk,C,Mental Health
+stress-resilience-whole-body,stress-resilience,"stress-resilience,stress-resilience-status",stress-resilience,whole-body,stress-resilience,stress-resilience_risk,C,Mental Health
+svr-muscle,svr(skeletal-muscle-mass-visceral-fat-area-ratio),"svr(skeletal-muscle-mass-visceral-fat-area-ratio),upper-limit-(svr-normal-range)",svr,muscle,svr(skeletal-muscle-mass-visceral-fat-area-ratio),svr(skeletal-muscle-mass-visceral-fat-area-ratio)_risk,N,Obesity
+target-weight-whole-body,target-weight,target-weight,target-weight,whole-body,target-weight,target-weight_risk,N,Body Composition
+tbw-left-arm,tbw-of-left-arm,"lower-limit-(tbw-of-left-arm-normal-range),tbw-of-left-arm,upper-limit-(tbw-of-left-arm-normal-range)",tbw,left-arm,tbw(total-body-water),tbw-of-left-arm_risk,N,Water and Hydration
+tbw-left-leg,tbw-of-left-leg,"lower-limit-(tbw-of-left-leg-normal-range),tbw-of-left-leg,upper-limit-(tbw-of-left-leg-normal-range)",tbw,left-leg,tbw(total-body-water),tbw-of-left-leg_risk,N,Water and Hydration
+tbw-right-arm,tbw-of-right-arm,"lower-limit-(tbw-of-right-arm-normal-range),tbw-of-right-arm,upper-limit-(tbw-of-right-arm-normal-range)",tbw,right-arm,tbw(total-body-water),tbw-of-right-arm_risk,N,Water and Hydration
+tbw-right-leg,tbw-of-right-leg,"lower-limit-(tbw-of-right-leg-normal-range),tbw-of-right-leg,upper-limit-(tbw-of-right-leg-normal-range)",tbw,right-leg,tbw(total-body-water),tbw-of-right-leg_risk,N,Water and Hydration
+tbw-trunk,tbw-of-trunk,"lower-limit-(tbw-of-trunk-normal-range),tbw-of-trunk,upper-limit-(tbw-of-trunk-normal-range)",tbw,trunk,tbw(total-body-water),tbw-of-trunk_risk,N,Water and Hydration
+tbw-whole-body,tbw-(total-body-water),"lower-limit-(tbw-normal-range),tbw-(total-body-water),upper-limit-(tbw-normal-range)",tbw,whole-body,tbw(total-body-water),tbw-(total-body-water)_risk,N,Water and Hydration
+tbw/ffm-whole-body,tbw/ffm,tbw/ffm,tbw/ffm,whole-body,tbw/ffm(total-body-water-to-fat-free-mass-ratio),tbw/ffm_risk,N,Body Composition
+tbw/wt-whole-body,tbw/wt,"tbw/wt,tbw/wt-t-score,tbw/wt-z-score",tbw/wt,whole-body,tbw/wt(total-body-water-to-weight-ratio),tbw/wt_risk,N,Body Composition
+tp-whole-body,tp(ln),"tp,tp(ln)",tp,whole-body,tp(tissue-phase),tp(ln)_risk,N,Heart
+tsrd-whole-body,tsrd,tsrd,tsrd,whole-body,tsrd(time-series-resilience-degree),tsrd_risk,N,Mental Health
+vfa-abdomen,vfa-(visceral-fat-area),"lower-limit-(visceral-fat-of-abdomen-normal-range),upper-limit-(visceral-fat-of-abdomen-normal-range),vfa-(visceral-fat-area),vfa-t-score,vfa-z-score",vfa,abdomen,vfa(visceral-fat-of-abdomen),vfa-(visceral-fat-area)_risk,N,Obesity
+vfl-abdomen,vfl-(visceral-fat-level),vfl-(visceral-fat-level),vfl,abdomen,vfl(visceral-fat-level),vfl-(visceral-fat-level)_risk,N,Fat Mass
+vlf-heart,vlf(ln),"vlf,vlf(ln)",vlf,heart,vlf(very-low-frequency),vlf(ln)_risk,N,Heart
+wc -waist,wc(waist-circumference) ,wc(waist-circumference) ,wc ,waist,wc(waist-circumference),wc(waist-circumference) _risk,N,Fat Mass
+weight-control-whole-body,weight-control,weight-control,weight-control,whole-body,weight-control,weight-control_risk,N,Body Composition
+weight-whole-body,weight,"lower-limit-(weight-normal-range),upper-limit-(weight-normal-range),weight,weight-t-score,weight-z-score",weight,whole-body,weight,weight_risk,N,Body Composition
+whr-waist,whr-(waist-hip-ratio),"lower-limit-(whr-normal-range),upper-limit-(whr-normal-range),whr-(waist-hip-ratio),whr-t-score,whr-z-score",whr,waist,whr(waist-hip-ratio),whr-(waist-hip-ratio)_risk,N,Fat Mass
+whtr-waist,whtr(waist-height-ratio),"upper-limit-(whtr-normal-range),whtr(waist-height-ratio)",whtr,waist,whtr(waist-height-ratio),whtr(waist-height-ratio)_risk,N,Body Measurement
+xc/ht-whole-body,xc/ht,xc/ht,xc/ht,whole-body,xc/ht(ratio),xc/ht_risk,N,Body Measurement
