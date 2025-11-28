@@ -1,0 +1,948 @@
+abbr;column_name;type
+A15;1-5-anhydroglucitol;N
+A1ME;1-methyladenosine;N
+A1MHMS;1-methylhistidine-ms;N
+A1MHMU;1-methylhistidine-mu;N
+A1MHNU;1-methylhistidine-nu;N
+A1MN;1-methylnicotinamide;N
+A2AB;2-aminobutyric-acid;N
+A2FG;2-furoylglycine;N
+A2HB;2-hydroxybutyric-acid;N
+A2HI;2-hydroxyisovalericacid;N
+A2MS;2-methylsuccinic-acid;N
+A2OANS;2-oxoglutaric-acid-ns;N
+A2OANU;2-oxoglutaric-acid-nu;N
+A3HBNS;3-hydroxybutyric-acid-ns;N
+A3HBNU;3-hydroxybutyric-acid-nu;N
+A3MHHI;3-methylhistidine-hi;N
+A3MHMS;3-methylhistidine-ms;N
+A3MHMU;3-methylhistidine-mu;N
+A4AB;4-aminobutyric-acid;N
+A4HPMS;4-hydroxyproline-ms;N
+A4HPMU;4-hydroxyproline-mu;N
+A5HS;5-hiaa-sulfate;N
+A5HIAA;5hiaa;N
+ABSI;absi(a-body-shaped-index);N
+ABX;have you used antibiotics in the past 3 months?;C
+AC;ac-(arm-circumference);N
+ACE;do you take any current medication? (choice=ace inhibitors);C
+ACE2;acetylcarnitine-c2;N
+ACNNS;acetone-ns;N
+ACNNU;acetone-nu;N
+ACR;acetylcarnitine;N
+ADE;adenine;N
+ADS;adenosine;N
+AE;ae;N
+AFLL;af-ll(abdominal-fat-llimit);N
+AFUL;af-ul(abdominal-fat-ulimit);N
+AGEP;age;N
+AGE2;age-value;N
+AHP;alpha-carotene;N
+AI;ai;N
+AKA;a-ketoglutaric-acid;N
+ALB;alb;N
+ALC;alcohol;N
+ALFT;arms/legs-fat;N
+ALHI;alanine-hi;N
+ALMS;alanine-ms;N
+ALMU;alanine-mu;N
+ALNS;alanine-ns;N
+ALNU;alanine-nu;N
+ALP;alp;N
+ALP2;allopurinol;N
+ALQN;aliquot-no;N
+AMC;amc-(arm-muscle-circumference);N
+ANAC;ans-activity;N
+ANBL;ans-balance;N
+ANTD;do you take any current medication? (choice=antidepressants);C
+AOAC;aoac;N
+APEN;apen;N
+ARGMS;arginine-ms;N
+ARGMU;arginine-mu;N
+ARGNU;arginine-nu;N
+ASCHI;asparagine-hi;N
+ASCMS;asparagine-ms;N
+ASCMU;asparagine-mu;N
+ASCNS;asparagine-ns;N
+ASCB;ascorbic-acid;N
+ASPHI;aspartic-acid-ms;N
+ASPMU;aspartic-acid-mu;N
+BAI;bai(body-adiposity-index);N
+BASO;baso;N
+BASP;baso-pct;N
+BCAR;beta-carotene;N
+BCM;bcm-(body-cell-mass);N
+BCRY;beta cryptoxanthin;N
+BEAN;beans;N
+BEEF;beef;N
+BENHI;benzoic-acid-hi;N
+BENNU;benzoic-acid-nu;N
+BETA;beta-cryptoxanthin;N
+BETHI;betaine-hi;N
+BETNU;betaine-nu;N
+BFA;bfm-of-arm-&-leg;N
+BFLA;bfm-of-left-arm;N
+BFLL;bfm-of-left-leg;N
+BFM;bfm-(body-fat-mass);N
+BFMLA;bfm%-of-left-arm;N
+BFMLL;bfm%-of-left-leg;N
+BFMRA;bfm%-of-right-arm;N
+BFMRL;bfm%-of-right-leg;N
+BFMT;bfm%-of-trunk;N
+BFMW;bfm%-of-whole-body;N
+BFMC;bfm-control;N
+BFRA;bfm-of-right-arm;N
+BFRL;bfm-of-right-leg;N
+BFTR;bfm-of-trunk;N
+BIO;biotin;N
+BMI;bmi-(body-mass-index);N
+BMI25;bmi (>25 kg/m2);N
+BMC;bmc-(bone-mineral-content);N
+BMR;bmr-(basal-metabolic-rate);N
+BP;raised blood pressure: systolic bp ≥ 130 or diastolic bp ≥ 85 mm hg.;C
+BPNS;box-position-ns;N
+BPSS;box-position-ss;N
+BRAS;brassicaceae;N
+BURG;burgers;N
+BUT;how many servings of butter, margarine, or cream do you consume per day? (1 serving: 12 g);N
+BUT2;butyrate;N
+BUTY;butyrylcarnitine-c4;N
+CABD;measured-circumference-of-abdomen;N
+CAEDTA;ca-edta;N
+CAFHI;caffeine-hi;N
+CAFNU;caffeine-nu;N
+CAL;calcium;N
+CAL2;calcium;N
+CALOR;recommended-calorie-intake;N
+CANC;do you have any of the following chronic medical conditions?        (choice=cancer);C
+CARB;carbohydrate;N
+CCHE;cottage-cheese;N
+CCH;measured-circumference-of-chest;N
+CHEC;cheddar-cheese;N
+CHL;chloride;N
+CHOL;cholesterol;N
+CHOL2;chol;N
+CHR;do you have any of the following chronic medical conditions?        (choice=none that i am aware of);C
+CHR2;chromium;N
+CIOR;city of residence;C
+CIS1;cis-mon-fa;N
+CIS3;cis-n3 fa;N
+CIS6;cis-n6 fa;N
+CISN3;cis-n3-fa;N
+CISN6;cis-n6-fa;N
+CL;chloride;N
+CLARM;measured-circumference-of-left-arm;N
+CLTH;measured-circumference-of-left-thigh;N
+CMPL;complete?;C
+CNE;measured-circumference-of-neck;N
+COPP;copper;N
+COR;country of residence;C
+COT;cotinine;N
+COW;class of worker;C
+CRE;crea;N
+CREHI;creatine-hi;N
+CRENS;creatine-ns;N
+CRENU;creatine-nu;N
+CRNHI;creatinine-hi;N
+CRNNS;creatinine-ns;N
+CRNNU;creatinine-nu;N
+CRP;crp;N
+CRARM;measured-circumference-of-right-arm;N
+CRTH;measured-circumference-of-right-thigh;N
+CSM;current smokers;C
+CSM_D;if you answered current smoker, please fill in the following details:  number of cigarettes smoked per day  years smoking  age started smoking;C
+CTUN;canned-tuna;N
+CVD;do you have any of the following chronic medical conditions?        (choice=cardiovascular disease);C
+CYT;cytosine;N
+DAA;d-aa-20-4n6;N
+DAL;d-ala-18-3n3;N
+DAY;day;N
+DDA;d-dha-22-6n3;N
+DDG;d-dgla-20-3n6;N
+DDH;d-dha-22-6n3;N
+DDP;d-dpa-22-5n3;N
+DEC;decanoylcarnitine-c10;N
+DEP;d-epa-20-5n3;N
+DEPA;d-epa-dha;N
+DGNS;d-galactose-ns;N
+DGNU;d-galactose-nu;N
+DGL;d-gla-18-3n6;N
+DGO;d-gondoic-20-1n9;N
+DIA;diastolic;N
+DIAB;do you have any of the following chronic medical conditions?        (choice=diabetes);C
+DIET;are you following a specific diet?;C
+DIU;do you take any current medication? (choice=diuretics);C
+DL;d-lactose;N
+DLI;d-linoleic-18-2n6;N
+DMA;d-mandelic-acid;N
+DMAHI;dimethylamine-hi;N
+DMANU;dimethylamine-nu;N
+DMU;d-mufa;N
+DMS;dimethylsulfone;N
+DMT;d-mannitol;N
+DMO;d-mannose;N
+DN6;d-n6-n3;N
+DNE;d-nervonic-24-1n9;N
+DOBP;date of birth;N
+DOL;d-oleic-18-1n9;N
+DOM;d-omega-6;N
+DOME;d-omega-3;N
+DOP;dopamine;N
+DOW;decades of working;N
+DPA;d-palmitic-16-0;N
+DPAL;d-palmitoleic-16-1n7;N
+DPC4;think about the time you spent walking in the last 7 days. this includes at work and at home, walking to travel from place to place, and any other walking that you have done solely for recreation, sport, exercise, or leisure.    during the last 7 days, on;N
+DPU;d-pufa;N
+DRFR;dried-fruit;N
+DST;d-stearic-18-0;N
+DSF;d-sfa;N
+DSFA;d-sfa-mufa;N
+DTR;d-trans-vaccenic-18-1-9t;N
+DVA;d-vaccenic-18-1n7;N
+DYS;do you have any of the following chronic medical conditions?        (choice=dyslipidaemia (imbalance of lipids such as cholesterol, low-density lipoprotein cholesterol, (ldl-c), triglycerides, and high-density lipoprotein (hdl)).);C
+DYSM;do you have any of the following chronic medical conditions?        (choice=dyslipidaemia controlled with medication);C
+EC;electro-cardiac-stability;N
+ECLA;ecw-of-left-arm;N
+ECLL;ecw-of-left-leg;N
+ECMB;ecm/bcm;N
+ECRA;ecw-of-right-arm;N
+ECRL;ecw-of-right-leg;N
+ECTB;ectopic-beat;N
+ECTR;ecw-of-trunk;N
+ECTLA;ecw/tbw-of-left-arm;N
+ECTLL;ecw/tbw-of-left-leg;N
+ECTRA;ecw/tbw-of-right-arm;N
+ECTRL;ecw/tbw-of-right-leg;N
+ECTRT;ecw/tbw-of-trunk;N
+ECTW;ecw/tbw;N
+ECW;ecw-(extracellular-water);N
+EDU;education level;C
+EMP;employment status;C
+ENE;energy;N
+ENG;englyst-fibre;N
+EOS;eos;N
+EOSP;eos-pct;N
+ETH;ethnicity;C
+ETAR;ecw/tbw-of-right-arm;N
+ETAN;ethanol;N
+ETAMS;ethanolamine-ms;N
+ETAMU;ethanolamine-mu;N
+ETLR;ecw/tbw-of-right-leg;N
+EXP;exp-no;N
+EXPN;expno;N
+FALL;do you have any food allergies?;C
+FAT;fat;N
+FATI;fatigue-index;N
+FAH;fahfa-16:0/20:3;N
+FHF160244;fahfa-16:0/24:4;N
+FHF170180;fahfa-17:0/18:0;N
+FHF181180;fahfa-18:1/18:0;N
+FHF182181;fahfa-18:2/18:1;N
+FHF226225;fahfa-22:6/22:5;N
+FIBR;englyst fibre;N
+FFM;ffm-(fat-free-mass);N
+FFMC;ffm-control;N
+FFMI;ffmi-(fat-free-mass-index);N
+FISH;how many servings of fish or shellfish do you consume per week? (1 serving 100-150 g of fish or 4-5 units or 200 g of shellfish);N
+FJUI;fruit-juice;N
+FMI;fmi-(fat-mass-index);N
+FOL;folate;N
+FOOD;food id;N
+FOO;food-index;N
+FOR;formate;N
+FPG;raised fasting plasma glucose (fpg): ≥ 90 mg/dl (5.0 mmol/l).;C
+FRC;fructose-in;N
+FRS;fructose-sas;N
+FRUC;fructose;N
+FRUT;fruit;N
+FRUTU;how many fruit units (including natural fruit juices) do you consume per day?;N
+FSDR;fs-dried-fruit;N
+FSFJ;fs-fruit-juice;N
+FSFP;fs-fruit-puree;N
+FSHN;fs-honey;N
+FSOA;fs-other-added-sugar;N
+FSSF;fs-stewed-fruit;N
+FSTB;fs-table-sugar;N
+FSVP;fs-vegetable-puree;N
+FUM;fumaric-acid;N
+GAB;g-aminobutyric;N
+GABMS;gamma-aminobutyric-acid-ms;N
+GABMU;gamma-aminobutyric-acid-mu;N
+GAST;do you have any of the following chronic medical conditions?        (choice=chronic gastrointestinal condition);C
+GB;game-birds;N
+GEN;gender;C
+GLIIN;glucose-in;N
+GLINS;glucose-ns;N
+GLISAS;glucose-sas;N
+GLAHI;glutamic-acid-hi;N
+GLAMS;glutamic-acid-ms;N
+GLAMU;glutamic-acid-mu;N
+GLANS;glutamic-acid-ns;N
+GLASAS;glutamic-acid-sas;N
+GLNHI;glutamine-hi;N
+GLNMS;glutamine-ms;N
+GLNMU;glutamine-mu;N
+GLNNS;glutamine-ns;N
+GLNSAS;glutamine-sas;N
+GLUC;glucose;N
+GLU2;glu;N
+GLY;glycerol;N
+GLYMS;glycine-ms;N
+GLYMU;glycine-mu;N
+GLYNS;glycine-ns;N
+GLYNU;glycine-nu;N
+GUA;guanine;N
+GAA;guanidinoacetic-acid;N
+H1A1;h1a1;N
+H1A2;h1a2;N
+H1CH;h1ch;N
+H1FC;h1fc;N
+H1PL;h1pl;N
+H1TG;h1tg;N
+H2A1;h2a1;N
+H2A2;h2a2;N
+H2CH;h2ch;N
+H2FC;h2fc;N
+H2PL;h2pl;N
+H2TG;h2tg;N
+H3A1;h3a1;N
+H3A2;h3a2;N
+H3CH;h3ch;N
+H3FC;h3fc;N
+H3PL;h3pl;N
+H3TG;h3tg;N
+H4A1;h4a1;N
+H4A2;h4a2;N
+H4CH;h4ch;N
+H4FC;h4fc;N
+H4PL;h4pl;N
+H4TG;h4tg;N
+HAE;haem-iron;N
+HAIR;haem iron;N
+HBA;hba1c;N
+HCT;hct;N
+HDA1;hda1;N
+HDA2;hda2;N
+HDCH;hdch;N
+HDFC;hdfc;N
+HDL;reduced hdl cholesterol: < 40 mg/dl (1.03 mmol/l) in males or < 50 mg/dl (1.29mmol/l) in females.;C
+HDL2;hdl;N
+HDPL;hdpl;N
+HDTG;hdtg;N
+HEX;hexanoylcarnitine-c6;N
+HFLN;hf(ln);N
+HGB;hgb;N
+HGT;height;N
+HIPHI;hippuric-acid-hi;N
+HIPNU;hippuric-acid-nu;N
+HIS;histamine;N
+HISMS;histidine-ms;N
+HISMU;histidine-mu;N
+HISNS;histidine-ns;N
+HOR;do you take any current medication? (choice=hormone-replacement therapy);C
+HR;hr;N
+HVA;homovanilic-acid;N
+HYP;do you have any of the following chronic medical conditions?        (choice=hypertension);C
+HYP2;hypotaurine;N
+HYPM;do you have any of the following chronic medical conditions?        (choice=hypertension with medication);C
+HYPX;hypoxanthine;N
+ICLA;icw-of-left-arm;N
+ICLL;icw-of-left-leg;N
+ICRA;icw-of-right-arm;N
+ICRL;icw-of-right-leg;N
+ICTR;icw-of-trunk;N
+ICW;icw-(intracellular-water);N
+IDAB;idab;N
+IDCH;idch;N
+IDFC;idfc;N
+IDPL;idpl;N
+IDPN;idpn;N
+IDTG;idtg;N
+ILL;do you currently suffer from any long-term illness?  if yes, please specify.;C
+IMD;imidazole;N
+IMLS;intrinsic-and-milk-sugars;N
+IND;indole;N
+INF;do you have any of the following chronic medical conditions?        (choice=acute infectious disease);C
+INBS;inbody-score;N
+INBT;inbody-type;N
+INO;indole3acetic-acid;N
+INOHI;inosine-hi;N
+INONU;inosine-nu;N
+INS;do you take any current medication? (choice=insulin);C
+IOD;iodine;N
+IRON;iron;N
+ISO;isoleucine-ms;N
+ISOMU;isoleucine-mu;N
+ISONU;isoleucine-nu;N
+ISOSAS;isoleucine-sas;N
+K;k;N
+KCAL;energy (kcal);N
+KEDTA;k-edta;N
+KH50;khz-50-whole-body-phase-angle;N
+KHLA;khz-la-5-phase-angle;N
+KHLL;khz-ll-5-phase-angle;N
+KHRA;khz-ra-5-phase-angle;N
+KHRL;khz-rl-5-phase-angle;N
+KHTR;khz-tr-5-phase-angle;N
+KHZLA;khz-la-250-phase-angle;N
+KHZLL;khz-ll-250-phase-angle;N
+KHZRA;khz-ra-250-phase-angle;N
+KHZRL;khz-rl-250-phase-angle;N
+KHZTR;khz-tr-250-phase-angle;N
+KJ;energy (kj);N
+KYN;kynurenate;N
+KYA;kynurenic-acid;N
+KYNIN;kynurenine;N
+L1AB;l1ab;N
+L1CH;l1ch;N
+L1FC;l1fc;N
+L1PL;l1pl;N
+L1PN;l1pn;N
+L1TG;l1tg;N
+L2AB;l2ab;N
+L2CH;l2ch;N
+L2FC;l2fc;N
+L2PL;l2pl;N
+L2PN;l2pn;N
+L2TG;l2tg;N
+L3AB;l3ab;N
+L3CH;l3ch;N
+L3FC;l3fc;N
+L3PL;l3pl;N
+L3PN;l3pn;N
+L3TG;l3tg;N
+L4AB;l4ab;N
+L4CH;l4ch;N
+L4FC;l4fc;N
+L4PL;l4pl;N
+L4PN;l4pn;N
+L4TG;l4tg;N
+L5AB;l5ab;N
+L5CH;l5ch;N
+L5FC;l5fc;N
+L5PL;l5pl;N
+L5PN;l5pn;N
+L5TG;l5tg;N
+L6AB;l6ab;N
+L6CH;l6ch;N
+L6FC;l6fc;N
+L6PL;l6pl;N
+L6PN;l6pn;N
+L6TG;l6tg;N
+LA;lactic-acid-ns;N
+LANU;lactic-acid-nu;N
+LACT;lactose;N
+LACHI;lactose-hi;N
+LACIN;lactose-in;N
+LAMB;lamb;N
+LARM;lean-mass(%)-of-left-arm;N
+LAU;lauroylcarnitine-c12;N
+LCID;local-id;N
+LDAB;ldab;N
+LDCH;ldch;N
+LDFC;ldfc;N
+LDHD;ldhd;N
+LDL;ldl;N
+LDPL;ldpl;N
+LDPN;ldpn;N
+LDTG;ldtg;N
+LEFT;leftovers (g/ml);N
+LEF;leftovers;N
+LEG;how many servings of legumes do you consume per week? (1 serving: 150 g);N
+LEU;leucine-ms;N
+LEUMU;leucine-mu;N
+LEUNS;leucine-ns;N
+LEUSAS;leucine-sas;N
+LEUISO;leucine/isoleucine;N
+LFLN;lf(ln);N
+LFHF;lf/hf;N
+LIG;light;N
+LIN;linoleoylcarnitine-c18:2;N
+LIV;living status;C
+LLEG;lean-mass(%)-of-left-leg;N
+LNAPE182182;lnape-18:2/n-18:2;N
+LNAPE205181;lnape-20:5/n-18:1;N
+LNAPE224180;lnape-22:4/n-18:0;N
+LNAPE226181;lnape-22:6/n-18:1;N
+LPA;lpa-16:0;N
+LPE182;lpe-18:2;N
+LPE183;lpe-18:3;N
+LPE204;lpe-20:4;N
+LPE205;lpe-20:5;N
+LPE226;lpe-22:6;N
+LPI182;lpi-18:2;N
+LPI203;lpi-20:3;N
+LPS;lps-18:0;N
+LYM;lym;N
+LYMP;lym-pct;N
+LYS;lysine-hi;N
+LYSMS;lysine-ms;N
+LYSMU;lysine-mu;N
+LYSNU;lysine-ns;N
+MAG;magnesium;N
+MALT;maltose;N
+MAN;manganese;N
+MAN2;mannitol;N
+MNS;mannose;N
+MAR;marital status;C
+MCH;mch;N
+MCHC;mchc;N
+MEA;meal-id;N
+MEAL;meal-index;N
+MED;medical history. did you have any of the following conditions?;C
+MED2;median-activity-length;N
+MEDI;do you take any current medication? (choice=none:);C
+MEDIET;mediet score;N
+MEL;melatonin;N
+MET;methionine-ms;N
+METMU;methionine-mu;N
+METNS;methionine-ns;N
+METNU;methionine-nu;N
+MFA;methylamine;N
+MFI;missing-food-id;N
+MG;magnesium;N
+MHRT;mean-hrt;N
+MIA;monoisoamylamine;N
+MINR;minerals;N
+MN;manganese;N
+MOD;think about all the moderate activities that you did in the last 7 days. moderate activities refer to activities that take moderate physical effort and make you breathe somewhat harder than normal. think only about those physical activities that you did f;C
+MOD2;moderate;N
+MODT;how much time did you usually spend doing moderate physical activities on one of those days? please answer in hours and minutes;N
+MOL;molybdenum;N
+MONO;mono;N
+MONP;mono-pct;N
+MVC;mvc;N
+MYR;myristoylcarnitine-c14;N
+NA;na;N
+NAP;do you take naps during the day?;C
+NAP2;num-active-periods;N
+NAPD;if you answered yes in the above question please mention how many naps and how long they are.;N
+DPC3;if you answered yes in the above question, please mention how many naps and how long they are.;N
+NCVF;nitrogen conversion factor;N
+NDG;n,n-dimethylglycine;N
+NDMG;n-dimethylglycine;N
+NEU;neu;N
+NEUP;neu-pct;N
+NIAC;niacin;N
+NIAC2;niacin-equivalent;N
+NIC;nicotinamide;N
+NIA2;nicotinic-acid;N
+NIRN;non-haem iron;N
+NIT;nitrogen-conversion-factor;N
+NMXS;non-milk-extrinsic-sugars;N
+NMR;nmr-rack;N
+NONH;non-haem-iron;N
+NONW;non-wear;N
+NSP;nsp;N
+NTBL1;nutrient table code;N
+NUT;nuts;N
+NUTS;how many servings of nuts (including peanuts) do you consume per week? (1 serving 30 g);N
+OAH;do you take any current medication? (choice=other antihypertensive agents);C
+OBES;obesity-degree;N
+OCT;octanoylcarnitine-c8;N
+ODIET;if you filled in other for diet, please describe your diet;C
+OFFL;offal;N
+OFIS;oily fish;N
+OHVIT;25-oh-vit-d3;N
+OIL;oily-fish;N
+OLAM;how much olive oil do you consume in a given day (including oil used for frying, salads, out-of-house meals, etc.)?;N
+OLE;oleoylcarnitine-c18:1;N
+OLIV;dietary habits questions (14-item questionnaire for adherence to mediterranean diet)    do you use olive oil as a main culinary fat?;C
+OLP;do you take any current medication? (choice=other lipid-lowering agents);C
+OMED;if you answered other in the above question please describe here your medical history;C
+ORH;do you take any current medication? (choice=oral hypoglycaemic agents);C
+ORN;ornithine-ms;N
+ORNMU;ornithine-mu;N
+ORNNS;ornithine-ns;N
+ORRM;other-red-meat;N
+OTCH;other-cheese;N
+OTH;other-sugars-(uk);N
+OTSU;other sugars (uk);N
+OVEG;other-vegetables;N
+OAA;oxaloacetic-acid;N
+PAB;pantothenate;N
+PAC;do you take any current medication? (choice=pain medication);C
+PACS;pacs-apo-a1;N
+PACSB;pacs-apo-b100;N
+PACSBA;pacs-apo-b100/apo-a1;N
+PACSCH;pacs-chol;N
+PACSCR;pacs-creatinine;N
+PACSGL;pacs-glucose;N
+PACSGC;pacs-glyc;N
+PACSGS;pacs-glyc/spc;N
+PACSGA;pacs-glyca;N
+PACSGB;pacs-glycb;N
+PACSHC;pacs-hdl-chol;N
+PACSHP;pacs-hdl-phos;N
+PACSLD;pacs-ldl-chol;N
+PACSLP;pacs-ldl-phos;N
+PACSSP;pacs-spc;N
+PACSTG;pacs-tg;N
+PAL;palmitoylcarnitine-c16;N
+PAN;pantothenic-acid;N
+PANT;pantothenic acid;N
+PBF;pbf-(percent-body-fat);N
+PCA;p-coumaric-acid;N
+PCAS;p-coumaric-acid-sulfate;N
+PCS;p-cresol-sulfate;N
+PE;pe;N
+PE160182;pe-16:0-18:2;N
+PE160226;pe-16:0-22:6;N
+PE180203;pe-18:0-20:3;N
+PE180226;pe-18:0-22:6;N
+PEO160205;pe-o-16:0-20:5;N
+PEO161181;pe-o-16:1-18:1;N
+PEO161182;pe-o-16:1-18:2;N
+PEO161205;pe-o-16:1-20:5;N
+PEO171181;pe-o-17:1-18:1;N
+PEO171182;pe-o-17:1-18:2;N
+PEO171204;pe-o-17:1-20:4;N
+PEO171226;pe-o-17:1-22:6;N
+PEO181160;pe-o-18:1-16:0;N
+PEO181182;pe-o-18:1-18:2;N
+PEO181203;pe-o-18:1-20:3;N
+PEO183226;pe-o-18:3-22:6;N
+PEO191204;pe-o-19:1-20:4;N
+PEO191205;pe-o-19:1-20:5;N
+PEO201182;pe-o-20:1-18:2;N
+PEO201203;pe-o-20:1-20:3;N
+PEO202226;pe-o-20:2-22:6;N
+PEO222204;pe-o-22:2-20:4;N
+PES;p-ethylphenol-sulfate;N
+PGT;pregnancy test done on women of child-bearing age? report result;C
+PHBA;p-hba;N
+PHBAS;p-hba-sulfate;N
+PHEN;phenol-sulfate;N
+PHEHI;phenylalanine-hi;N
+PHEMS;phenylalanine-ms;N
+PHEMU;phenylalanine-mu;N
+PHENS;phenylalanine-ns;N
+PHESAS;phenylalanine-sas;N
+PHGTP;height (cm);N
+PHO;phosphorus;N
+PHOS;phosphorus;N
+PHPAS;p-hyd.phenylacetic-sulfate;N
+PHPPA;p-hyd.phenylpropionic-acid;N
+PHPPS;p-hyd.phenylpropionic-sulfate;N
+PHPA;p-hydroxyphenyl-acetic-acid;N
+PHPL;p-hydroxyphenyllactic-acid;N
+PHPLS;p-hydroxyphenyllactic-sulfate;N
+PID;patient;N
+PINCP;salary (annual net salary);N
+PI160161;pi-16:0-16:1;N
+PI170204;pi-17:0-20:4;N
+PLT;plt;N
+POBP;place of birth;C
+POR;place of residence;C
+POR2;portion-size;N
+PORK;pork;N
+POS;position;N
+POT;potassium;N
+PREF;do you preferentially consume chicken, turkey, or rabbit meat instead of veal, pork, hamburger, or sausage?;C
+PREGP;are you pregnant, breast feeding, planning to get pregnant or your partner is planning to get pregnant, in the next 12 months?;C
+PRM;processed-red-meat;N
+PRO;protein;N
+PROB;proline-betaine;N
+PROMS;proline-ms;N
+PROMU;proline-mu;N
+PRONS;proline-ns;N
+PROP;propionylcarnitine-c3;N
+PROP2;propionate;N
+PROT;protein;N
+PROT2;protein-in;N
+PRPL;processed-poultry;N
+PRRM;processed red meat;N
+PRSZ;portion size (g/ml);N
+PSI;psi;N
+PWGTP;weight (kg);N
+PYR;pyridoxine;N
+PYRO;pyroglutamic;N
+PYRNS;pyruvic-acid-ns;N
+PYRNU;pyruvic-acid-nu;N
+RAC1P;ethnicity_is white or not;C
+RARM;lean-mass(%)-of-right-arm;N
+RBC;rbc;N
+RBC120;rbc-12-0;N
+RBC140;rbc-14-0;N
+RBC150;rbc-15-0;N
+RBC200;rbc-20-0;N
+RBC220;rbc-22-0;N
+RBC2219;rbc-22-1n-9;N
+RBC2246;rbc-22-4n-6;N
+RBC240;rbc-24-0;N
+RBCAA;rbc-aa-20-4n6;N
+RBCALA;rbc-ala-18-3n3;N
+RBCALL;rbc-all-trans-c18-1;N
+RBCC;rbc-c22-5n-3;N
+RBCDG;rbc-dgla-20-3n6;N
+RBCDH;rbc-dha-22-6n3;N
+RBCDPA;rbc-dpa-22-5n3;N
+RBCEIC;rbc-eicosadienoic-20-2n6;N
+RBCEPA;rbc-epa-20-5n3;N
+RBCEPD;rbc-epa-dha;N
+RBCGLA;rbc-gla-18-3n6;N
+RBCGON;rbc-gondoic-20-1n9;N
+RBCLIN;rbc-linoleic-18-2n6;N
+RBCMAR;rbc-margaric-17-0;N
+RBCMUF;rbc-mufa;N
+RBCN6N3;rbc-n6-n3;N
+RBCNER;rbc-nervonic-24-1n9;N
+RBCOLE;rbc-oleic-18-1n9;N
+RBCOM3;rbc-omega-3;N
+RBCOM6;rbc-omega-6;N
+RBCPAL;rbc-palmitic-16-0;N
+RBCPOL;rbc-palmitoleic-16-1n7;N
+RBCPUF;rbc-pufa;N
+RBCSFA;rbc-sfa;N
+RBCSFM;rbc-sfa-mufa;N
+RBCSTE;rbc-stearic-18-0;N
+RBCVAC;rbc-vaccenic-18-1n7;N
+RDW;rdw-cv;N
+RDYM;ready meal;N
+RED;how many servings of red meat, hamburger, or meat products (ham, sausage, etc.) do you consume per day? (1 serving: 100-150 g);N
+REN;do you have any of the following chronic medical conditions?        (choice=renal disease);C
+RES;have you taken part in any research studies in the past 3 months?;C
+RETL;retinol;N
+RHT;r/ht;N
+RIBF;riboflavin;N
+RIV;rivoflavine;N
+RLEG;lean-mass(%)-of-right-leg;N
+RMSSD;rmssd;N
+RS;recruitment_site;C
+RSON;reasonable amount;N
+SAUS;sausages;N
+SAT;satd-fa;N
+SDNN;sdnn;N
+SED;sedentary;N
+SE;selenium;N
+SEL;selenium;N
+SER;serving-size;N
+SERHI;serine-hi;N
+SERMS;serine-ms;N
+SERMU;serine-mu;N
+SER2;serotonin;N
+SERIALNO;user id;C
+SEX;sex;C
+SFALL;sfa-ll(subcutaneous-fat-of-abdomen-llimit);N
+SFAT;satd fa;N
+SFAUL;sfa-ul(subcutaneous-fat-of-abdomen-ulimit);N
+SFTP;if you answered shift worker, please describe your shifts patterns;C
+SGO;sgot;N
+SGP;sgpt;N
+SHEL;shellfish;N
+SIT;site;C
+SIT2;the last question is about the time you spent sitting on weekdays during the last 7 days.  include time spent at work, at home, while doing course work and during leisure time.  this may include time spent sitting at a desk, visiting friends, reading, or;N
+SLE;sleep;N
+SLM;slm-(soft-lean-mass);N
+SLP;sleep-efficiency;N
+SLPFD;how many hours per day do you sleep during free days?;N
+SLPQ;rate your sleep quality (1: very bad, 5: very good);N
+SLPWK;how many hours per day do you sleep during workdays?;N
+SMI;smi-(skeletal-muscle-index);N
+SMM;smm-(skeletal-muscle-mass);N
+SMFR;smoothie-fruit;N
+SMK;smoking status;C
+SMWT;smm/wt;N
+SOF;how many times per week do you consume vegetables, pasta, rice, or other dishes seasoned with sofrito (sauce made with tomato and onion, leek, or garlic and simmered with olive oil)?;N
+SOR;sorbitol;N
+SOW;status of worker;C
+SRD;srd;N
+STA;do you take any current medication? (choice=statins);C
+STA2;starch;N
+ST24;st-24:1:o4;N
+STAR;starch-polysaccharides;N
+STE;steps;N
+STEA;stearoylcarnitine-c18;N
+STH;do you take any current medication? (choice=others);C
+STIN;stress-index;N
+STMS;sample-type-ms;C
+STMU;sample-type-mu;C
+STRE;stress-resilience;N
+SUC;succinic-acid-ns;N
+SUCNU;succinic-acid-nu;N
+SUCHI;sucrose-hi;N
+SUCIN;sucrose-in;N
+SUCR;sucrose;N
+SUP;do you take any current medication? (choice=supplements (vitamins, minerals, fatty acids, probiotics));C
+SVR;svr(skeletal-muscle-mass-visceral-fat-area-ratio);N
+SVSZ;serving size (g/ml);N
+SW;sample-weight;N
+SWBV;how many sweet or carbonated beverages do you drink per day?;N
+SWTPT;how many times per week do you consume commercial sweets or pastries (not homemade), such as cakes, cookies, biscuits, or custard?;N
+SYS;systolic;N
+TAR;tartaric-acid;N
+TAUHI;taurine-hi;N
+TAUMS;taurine-ms;N
+TAUMU;taurine-mu;N
+TAUNU;taurine-nu;N
+TBLA;tbw-of-left-arm;N
+TBLL;tbw-of-left-leg;N
+TBI;tbil;N
+TBRA;tbw-of-right-arm;N
+TBRL;tbw-of-right-leg;N
+TBTR;tbw-of-trunk;N
+TBFF;tbw/ffm;N
+TBPN;tbpn;N
+TBW;tbw-(total-body-water);N
+TBWT;tbw/wt;N
+TCAR;total-carotene;N
+TEL;total-elapsed-bed-time;N
+TGWT;target-weight;N
+THE;theobromine;N
+THI;thiamin;N
+THI2;thiamine;N
+THRHI;threonine-hi;N
+THRMS;threonine-ms;N
+THRMU;threonine-mu;N
+THRNS;threonine-ns;N
+TNIT;total nitrogen;N
+TOMA;tomatoes;N
+TOM2;tomato-puree;N
+TOT;total-nitrogen;N
+TOTA;total-sugars;N
+TP;tp(ln);N
+TPA1;tpa1;N
+TPA2;tpa2;N
+TPAB;tpab;N
+TPCH;tpch;N
+TPLN;protein;N
+TPTG;tptg;N
+TPUR;tomato puree;N
+TRA;trans-fa;N
+TRI;raised triglycerides ( ≥ 100 mg/dl (1.7 mmol/l));C
+TRI2;trig;N
+TRI3;trigonelline;N
+TRFA;trans fa;N
+TRUN;lean-mass(%)-of-trunk;N
+TRY;tryptophan/60;N
+TRY2;tryptamine;N
+TRPHI;tryptophan-hi;N
+TRPMS;tryptophan-ms;N
+TRPMU;tryptophan-mu;N
+TRPSAS;tryptophan-sas;N
+TRYP;tryptophan/60;N
+TSRD;tsrd;N
+TST;total-sleep-time;N
+TSUG;total sugars;N
+TWT;total-wake-time;N
+TYR;tyramine;N
+TYRHI;tyrosine-hi;N
+TYRMS;tyrosine-ms;N
+TYRMU;tyrosine-mu;N
+TYRNS;tyrosine-ns;N
+TYRSAS;tyrosine-sas;N
+UAC;uric-acid;N
+UHPLC;uhplc-h2o;N
+UNI;uni;C
+URA;uracil;N
+URE;urea;N
+VAL;valerylcarnitine-c5;N
+V1CH;v1ch;N
+V1FC;v1fc;N
+V1PL;v1pl;N
+V1TG;v1tg;N
+V2CH;v2ch;N
+V2FC;v2fc;N
+V2PL;v2pl;N
+V2TG;v2tg;N
+V3CH;v3ch;N
+V3FC;v3fc;N
+V3PL;v3pl;N
+V3TG;v3tg;N
+V4CH;v4ch;N
+V4FC;v4fc;N
+V4PL;v4pl;N
+V4TG;v4tg;N
+V5CH;v5ch;N
+V5FC;v5fc;N
+V5PL;v5pl;N
+V5TG;v5tg;N
+VEG;how many vegetable servings do you consume per day? (1 serving : 200 g [consider side dishes as half a serving]);N
+VFA;vfa-(visceral-fat-area);N
+VFL;vfl-(visceral-fat-level);N
+VIG;how much time did you usually spend doing vigorous physical activities on one of those days? please answer in hours and minutes per day.;N
+VIG2;vigorous;N
+VITA;vitamin-a;N
+VITB12;vitamin-b12;N
+VITB6;vitamin-b6;N
+VITC;vitamin-c;N
+VITD;vitamin-d;N
+VITE;vitamin-e;N
+VLAB;vlab;N
+VLCH;vlch;N
+VLFC;vlfc;N
+VLFL;vlf(ln);N
+VLPL;vlpl;N
+VLPN;vlpn;N
+VLTG;vltg;N
+VNS;volume-per-aliqote-ns;N
+VSS;volume-per-aliqote-ss;N
+VST;visit;N
+WALK;think about the time you spent walking in the last 7 days. this includes at work and at home, walking to travel from place to place, and any other walking that you have done solely for recreation sport, exercise, or leisure.    during the last 7 days, on;N
+WATR;water;N
+WAT2;water;N
+WBC;wbc;N
+WC;wc(waist-circumference);N
+WCTR;weight-control;N
+WGHT;weight;N
+WGTC;have you lost or gained weight in the past 3 months?;C
+WGTCN;have you lost or gained weight in the past 3 months? if yes, how much?;N
+WFIS;white-fish;N
+WHL;women's health (only for women)  please fill in the following information:  years of menarche  years of menopause  number of children  number of full-term pregnancies  currently breastfeeding?  did you breastfeed your children? if yes, how many?;C
+WHR;whr-(waist-hip-ratio);N
+WHTR;whtr(waist-height-ratio);N
+WINE;how much wine do you drink per week?;N
+WKHP;hours worked per week;N
+WKT;how much time did you usually spend walking on one of those days? please answer in hours and minutes.;N
+WKTM;working time;C
+XAN;xanthine;N
+XANAC;xanthurenic-acid;N
+XCHT;xc/ht;N
+YRG;yellow-red-green;N
+ZN;zinc;N
+ANTMED;do you take any current medication? (choice=aspiring or antiplatelet therapy);C
+FSM_D;if you answered former smoker, please fill in the following details:  number of cigarettes per day  years smoking  years without smoking  age started smoking;N
+PHY;we are interested in finding out about the kinds of physical activities that people do as part of their everyday lives.  the questions will ask you about the time you spent being physically active in the last 7 days. please answer each question even if yo;N
+ABA1;aba1;N
+ACET;acetate;N
+AACNS;acetic-acid-ns;N
+AACNU;acetic-acid-nu;N
+AAANS;acetoacetic-acid-ns;N
+AAANU;acetoacetic-acid-nu;N
+ALLHI;allantoin-hi;N
+ALLNU;allantoin-nu;N
+AABMS;alpha-aminobutyric-acid-ms;N
+AABMU;alpha-aminobutyric-acid-mu;N
+AAAMS;aminoadipic-acid-ms;N
+AAAMU;aminoadipic-acid-mu;N
+BALMS;beta-alanine-ms;N
+BALMU;beta-alanine-mu;N
+BAIM;beta-aminoisobutyric-acid-ms;N
+BAIMU;beta-aminoisobutyric-acid-mu;N
+CHOHI;choline-hi;N
+CHONS;choline-ns;N
+CITNS;citric-acid-ns;N
+CITNU;citric-acid-nu;N
+CITMS;citrulline-ms;N
+CITMU;citrulline-mu;N
+CONI;conicity-index;N
+DGLU;d-glucose;N
+DAYN;day-number;N
+FGRC;food-group-code;N
+FACNS;formic-acid-ns;N
+FACNU;formic-acid-nu;N
+I3LA;indole3lactic-acid;N
+INDS;indoxyl-sulfate;N
+ISONS;isoleucine-ns;N
+NTBL;nutrient-table-code;N
+POUL;poultry;N
+SARMS;sarcosine-ms;N
+SARMU;sarcosine-mu;N
+SARNS;sarcosine-ns;N
+SARNU;sarcosine-nu;N
+SOD;sodium;N
+TFS;total-fs;N
+TMAHI;trimethylamine-hi;N
+TMAOHI;trimethylamine-n-oxide-hi;N
+TMAONS;trimethylamine-n-oxide-ns;N
+TMANU;trimethylamine-nu;N
